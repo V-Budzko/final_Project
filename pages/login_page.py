@@ -1,7 +1,6 @@
 from .base_page import BasePage
 from .locators import LoginPageLocators
-from .main_page import MainPage
-from selenium import webdriver
+
 
 
 
